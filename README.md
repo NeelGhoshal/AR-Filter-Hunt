@@ -19,7 +19,7 @@
 ## Instructions to run
 ```
 > Install Spark AR
-> Download repo as zip
+> Download repository as zip
 > Open Spark File -> AR hunt Final
 
 ```
